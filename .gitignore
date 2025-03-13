@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+venv/
+
+# Kubernetes
+kubeconfig
+
+# IDE files
+.idea/
+.vscode/
